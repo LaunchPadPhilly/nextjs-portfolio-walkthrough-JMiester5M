@@ -3,7 +3,7 @@ export default function Home() {
     <div className="px-6 py-12">
       <div className="max-w-5xl mx-auto">
         <div className="text-center mb-16">
-          <h1 className="section-heading mb-6">Hi, I'm Jaylen Marshall</h1>
+          <h1 className="section-heading mb-6">Hi, I&apos;m Jaylen Marshall</h1>
           <p className="text-lg md:text-xl leading-relaxed text-slate-300 max-w-3xl mx-auto">
             Front-End Engineer focused on crafting responsive, accessible, and performant web experiences using React, Next.js, and modern tooling.
           </p>
